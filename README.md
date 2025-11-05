@@ -8,14 +8,6 @@
 The Nuke Light Bridge allows compositors to perform a "technical relight" using AOV passes in Nuke and then seamlessly transfer those adjustments back to the original 3D lights in a Maya scene. This accelerates look development and ensures consistency between compositing and 3D.
 </p>
 
-<p align="center">
-  <img width="296" height="253" alt="Nuke Light Mixer" src="https://github.com/user-attachments/assets/7092a4d8-a046-42c4-b415-96040844704d" />
-  <img width="605" height="363" alt="Maya Light Bridge" src="https://github.com/user-attachments/assets/5b6e48ed-e7c4-4e2e-bfe1-96f624f7f428" />
-
-
-</p>
-
-
 ---
 
 ## 1. Overview
@@ -26,6 +18,10 @@ The project consists of two main components:
 2.  **Light Bridge (Maya):** A simple utility that reads the exported `.json` file and applies the visibility, color, and exposure modifications to the corresponding lights in the Maya scene, using Arnold's AOV attributes as a link.
 
 ## 2. Nuke - AOV Light Mixer
+
+<p align="center">
+  <img width="296" height="253" alt="Nuke Light Mixer" src="https://github.com/user-attachments/assets/7092a4d8-a046-42c4-b415-96040844704d" />
+</p>
 
 This tool generates a `AOVLight_Mixer` node in Nuke to control your light passes.
 
@@ -62,6 +58,10 @@ This tool generates a `AOVLight_Mixer` node in Nuke to control your light passes
 ---
 
 ## 3. Maya - Light Bridge
+
+<p align="center">
+  <img width="605" height="363" alt="Maya Light Bridge" src="https://github.com/user-attachments/assets/5b6e48ed-e7c4-4e2e-bfe1-96f624f7f428" />
+</p>
 
 This simple utility applies the lighting data from the exported `.json` file to your Maya scene.
 
