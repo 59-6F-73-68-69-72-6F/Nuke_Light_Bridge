@@ -9,9 +9,12 @@ The Nuke Light Bridge allows compositors to perform a "technical relight" using 
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/your-nuke-tool-image.png" alt="Nuke AOV Light Mixer" width="48%"/>
-  <img src="https://i.imgur.com/your-maya-tool-image.png" alt="Maya Light Bridge" width="48%"/>
+  <img width="296" height="253" alt="Nuke Light Mixer" src="https://github.com/user-attachments/assets/7092a4d8-a046-42c4-b415-96040844704d" />
+  <img width="605" height="363" alt="Maya Light Bridge" src="https://github.com/user-attachments/assets/5b6e48ed-e7c4-4e2e-bfe1-96f624f7f428" />
+
+
 </p>
+
 
 ---
 
