@@ -8,6 +8,11 @@
 The Nuke Light Bridge allows compositors to perform a "technical relight" using AOV passes in Nuke and then seamlessly transfer those adjustments back to the original 3D lights in a Maya scene. This accelerates look development and ensures consistency between compositing and 3D.
 </p>
 
+<p align="center">
+  <a href="https://vimeo.com/1134493543?fl=pl&fe=sh">
+<img width="948" height="530" alt="Screenshot 2025-11-07 000927" src="https://github.com/user-attachments/assets/4573cc5f-9d9d-4d53-9824-2deb345f3f3c" /></a>
+</p>
+
 ---
 
 ## 1. Overview
